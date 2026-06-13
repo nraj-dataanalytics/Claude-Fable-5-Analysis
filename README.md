@@ -4,7 +4,7 @@
 > Claude Mythos was too dangerous to release. Fable 5 made it public. The US government pulled it 3 days later.
 > This is the complete story — with all data, files, and analysis — and what it means for data analysts.
 
-🌐 **[View the Live Site →](https://[your-github-username].github.io/raj-ai-insight/)**
+🌐 **[View the Live Site →](https://nraj-dataanalytics.github.io/Claude-Fable-5-Analysis/)**
 
 **CURRENT STATUS (June 13, 2026): Claude Fable 5 is suspended for all users.**
 
